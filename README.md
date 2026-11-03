@@ -1,4 +1,4 @@
-# Superstore Customer Cohort Analysis
+# Customer Cohort & Retention Analysis(SQL +Python)
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ The project uses SQL and Python to calculate cohort retention rates, construct a
 
 | File | Description |
 |---|---|
-| `Superstore Customer Cohort Analysis.ipynb` | Complete analysis notebook, including SQL queries, Python code, and visualizations. |
+| `Customer Cohort & Retention Analysis(SQL +Python).ipynb` | Complete analysis notebook, including SQL queries, Python code, and visualizations. |
 
 ## Dataset
 
@@ -37,7 +37,7 @@ The dataset is connected through Kaggle Notebook's Input environment.
 
 ## Kaggle Notebook
 
-https://www.kaggle.com/code/yinghelai/superstore-customer-cohort-analysis-sql-python
+https://www.kaggle.com/code/yinghelai/customer-cohort-retention-analysis-sql-python
 
 ## How to Run
 
